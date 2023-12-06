@@ -122,6 +122,19 @@ a {
   border-color: #db0000;
 }
 
+#lobby__btn{
+  display: block;
+  background-color: #2e8098;
+  padding: 8px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+#create__room__btn:hover {
+  background-color: #2e8098;
+}
+
 #create__room__btn {
   display: block;
   background-color: #db0000;
